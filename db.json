@@ -12,6 +12,24 @@
         "team1": "Phoenix",
         "team2": "Ginebra"
       }
+     ], 
+    
+     "CharityList": [
+      {
+        "picture": "PICTURE1",
+        "charity": "PHILIPPINE RED CROSS",
+        "rank": "01"
+      },
+      {
+        "picture": "PICTURE2",
+        "charity": "PHILIPPINE GENERAL HOSPITAL",
+        "rank": "01"
+      },
+      {
+        "picture": "PICTURE3",
+        "charity": "KIDS INTERNATIONAL MISSION",
+        "rank": "01"
+      }
      ]
  
 }
