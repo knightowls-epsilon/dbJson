@@ -76,7 +76,6 @@
         "team2": "TNT KATROPA" 
        }
     ],
-    
         "userInfo": [
            {
             "picture": "PICTURE1",
@@ -87,6 +86,25 @@
             "time": "06D : 08H : 03M : 30S",
             "picture2": "PICTURE1",
             "team2": "ROAD WARRIORS"
+           }
+            
+         ],
+            "rewards": [
+           {
+            "rank": "1st",
+            "gold": "250K"
+           },
+           {
+            "rank": "2nd",
+            "gold": "100K"
+           },
+           {
+            "rank": "3rd-4th",
+            "gold": "75K"
+           },
+           {
+            "rank": "5th-10th",
+            "gold": "75K"
            }
             
          ]
