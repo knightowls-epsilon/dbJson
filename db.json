@@ -91,18 +91,22 @@
          ],
             "rewards": [
            {
+            "color": "COLOR1",
             "rank": "1st",
             "gold": "250K"
            },
            {
+            "color": "COLOR2",
             "rank": "2nd",
             "gold": "100K"
            },
            {
+            "color": "COLOR3",
             "rank": "3rd-4th",
             "gold": "75K"
            },
            {
+            "color": "COLOR4",
             "rank": "5th-10th",
             "gold": "75K"
            }
