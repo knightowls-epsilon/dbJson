@@ -30,6 +30,19 @@
         "charity": "KIDS INTERNATIONAL MISSION",
         "rank": "01"
       }
-     ]
+     ],
+    
+    "teamList": [
+       {
+        "picture": "PICTURE1",
+        "team1": "TNT KATROPA",
+        "date":"Wed Jun 22 2022",
+        "place": "Mall of Asia Arena",
+        "time": "06D : 08H : 03M : 30S",
+        "picture": "PICTURE2",
+        "team2": "ROAD WARRIORS"
+       }
+    
+    ]
  
 }
