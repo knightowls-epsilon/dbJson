@@ -1,14 +1,17 @@
 {
     "upcomingMatch": [
       {
+        "id": 1,
         "team1": "GSM",
         "team2": "Bolts"
       },
       {
+        "id": 2,
         "team1": "Road Warriors",
         "team2": "Meralco"
       },
       {
+        "id": 3,
         "team1": "Phoenix",
         "team2": "Ginebra"
       }
@@ -16,66 +19,25 @@
     
      "CharityList": [
       {
+        "id": 1,
         "picture": "PICTURE1",
         "charity": "PHILIPPINE RED CROSS",
         "rank": "01"
       },
       {
+        "id": 2,
         "picture": "PICTURE2",
         "charity": "PHILIPPINE GENERAL HOSPITAL",
         "rank": "01"
       },
       {
+        "id": 3,
         "picture": "PICTURE3",
         "charity": "KIDS INTERNATIONAL MISSION",
         "rank": "01"
       }
      ],
-    
-    "teamList": [
-       {
-        "picture": "PICTURE1",
-        "team1": "TNT KATROPA",
-        "date":"Wed Jun 22 2022",
-        "place": "Mall of Asia Arena",
-        "time1": "06:00 PM",
-        "time": "06D : 08H : 03M : 30S",
-        "picture2": "PICTURE1",
-        "team2": "ROAD WARRIORS"
-       },
-        
-        {
-        "picture": "PICTURE2",
-        "team1": "ROAD WARRIORS",
-        "date":"Wed Jun 22 2022",
-        "place": "Mall of Asia Arena",
-        "time1": "06:00 PM",
-        "time": "06D : 08H : 03M : 30S",
-        "picture2": "PICTURE2",
-        "team2": "TNT KATROPA" 
-       },
-        
-         {
-        "picture": "PICTURE1",
-        "team1": "TNT KATROPA",
-        "date":"Wed Jun 22 2022",
-        "place": "Mall of Asia Arena",
-        "time1": "06:00 PM",
-        "time": "06D : 08H : 03M : 30S",
-        "picture2": "PICTURE1",
-        "team2": "ROAD WARRIORS"
-       },
-            {
-        "picture": "PICTURE2",
-        "team1": "ROAD WARRIORS",
-        "date":"Wed Jun 22 2022",
-        "place": "Mall of Asia Arena",
-        "time1": "06:00 PM",
-        "time": "06D : 08H : 03M : 30S",
-        "picture2": "PICTURE2",
-        "team2": "TNT KATROPA" 
-       }
-    ],
+   
         "userInfo": [
            {
             "picture": "PICTURE1",
@@ -91,21 +53,25 @@
          ],
             "rewards": [
            {
+            "id": 1,
             "color": "COLOR1",
             "rank": "1st",
             "gold": "250K"
            },
            {
+            "id": 2,
             "color": "COLOR2",
             "rank": "2nd",
             "gold": "100K"
            },
            {
+            "id": 3,
             "color": "COLOR3",
             "rank": "3rd-4th",
             "gold": "75K"
            },
            {
+            "id": 4,
             "color": "COLOR4",
             "rank": "5th-10th",
             "gold": "75K"
